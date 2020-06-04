@@ -1,0 +1,19 @@
+{
+  "name": "spanner-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/spanner": "^4.6.1",
+    "faker": "^4.1.0",
+    "randomatic": "^3.1.1"
+  }
+}
